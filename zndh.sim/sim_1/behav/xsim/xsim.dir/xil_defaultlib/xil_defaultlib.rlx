@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/fpga2/zndh/uart_rx.v,1574442609,verilog,,D:/fpga2/zndh/uart_tx.v,,uart_rx,,,,,,,,
+D:/fpga2/zndh/uart_tx.v,1574442607,verilog,,D:/fpga2/zndh/zndh.v,,uart_tx,,,,,,,,
+D:/fpga2/zndh/zndh.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/fpga2/zndh/zndh.v,1574443695,verilog,,,,zndh,,,,,,,,
